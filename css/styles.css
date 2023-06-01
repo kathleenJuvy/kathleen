@@ -1,0 +1,122 @@
+body
+{
+	background: rgb(213, 91, 91);
+}
+table 
+{
+	border-width: 0px;
+	width: 100%;
+	height: 450px;
+	border-color: BLACK;
+}
+h1{
+	text-align: center;
+	color:rgb(43, 196, 43);
+	font-size: 80px;
+	font-family: monospace;
+	text-shadow: 0 0 5px BLUE, 0 0 5px BLUE,0 0 5px BLUE;
+}
+.blank
+{
+	border-width: 0px;
+}
+.ORANGE{
+	background: rgb(36,3,0);
+	background: linear-gradient(90deg, rgba(36,3,0,1) 0%, rgba(121,41,9,1) 35%, rgba(193,127,4,1) 70%, rgba(255,38,0,1) 100%);	font-size: 20px;
+	font-family: monospace;
+	color:white;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.WHITE{
+	background: rgb(36,3,0);
+	background: linear-gradient(90deg, rgb(237, 183, 179) 0%, rgb(229, 189, 174) 35%, rgb(251, 227, 183) 70%, rgb(239, 189, 181) 100%);	font-size: 20px;
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.GREEN{
+	background: rgb(36,3,0);
+	background: linear-gradient(90deg, rgb(0, 36, 15) 0%, rgb(9, 121, 50) 35%, rgb(4, 193, 54) 70%, rgb(0, 255, 115) 100%);	
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.LGREEN{
+	background: rgb(36,3,0);
+	background: linear-gradient(90deg, rgb(0, 36, 31) 0%, rgb(9, 121, 78) 35%, rgb(4, 193, 133) 70%, rgb(153, 255, 0) 100%);	font-size: 20px;
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.DPINK
+{
+	background: rgb(36,0,12);
+	background: linear-gradient(90deg, rgba(36,0,12,1) 0%, rgba(52,9,121,1) 35%, rgba(96,4,193,1) 70%, rgba(255,0,181,1) 100%);
+	font-family: monospace;
+	font-size: 20px;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+	color:#FFFF;
+}
+.PINK{
+	background: rgb(36,3,0);
+	background: linear-gradient(90deg, rgb(239, 99, 86) 0%, rgb(218, 115, 75) 35%, rgb(239, 138, 101) 70%, rgb(234, 113, 92) 100%);	font-size: 20px;
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.VIOLET{
+	background: rgb(36,3,0);
+	background: linear-gradient(90deg, rgb(103, 8, 90) 0%, rgb(108, 9, 121) 35%, rgb(171, 4, 193) 70%, rgb(255, 0, 157) 100%);	font-size: 20px;
+	ffont-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.AQUA{
+	background: linear-gradient(90deg, rgb(76, 181, 238) 0%, rgb(38, 82, 171) 20%, rgb(8, 79, 145) 39%);
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.LORANGE{
+	background: linear-gradient(90deg, rgba(238,228,76,1) 0%, rgba(171,138,38,1) 20%, rgba(145,98,8,1) 39%);
+	font-size: 20px;
+	font-family: monospace;
+	text-align: center;
+	width:5%;
+	height: 15%;
+	border-radius:3px;
+}
+.tb1
+{
+	margin-top: 5%;
+	border-width: 0px;
+	width: 89%;
+	height:130px;
+	border-color: BLACK;
+	margin-left: 5.5%;
+	border-radius:3px;
+}
